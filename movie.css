@@ -45,6 +45,7 @@ h1 {
 
 .overview dl {
     padding-left: 10px;
+    padding-right: 10px;
     font-family: Arial, sans-serif;
 }
 
@@ -136,7 +137,7 @@ h1 {
 /*±Í÷æ*/
 
 .W3C {
-    position: absolute;
+    position: fixed;
     right: 0;
     bottom: 0;
 }
